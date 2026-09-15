@@ -17,4 +17,4 @@ Third line of the range to review.
 - Only explicitly submitted comments become a published review.
 - Close this disposable PR after the exercise; do not merge it.
 
-🤖 Head-change probe: this harmless addition lets the open editor detect a newer PR revision before submission.
+🤖 Second head-change probe: this harmless update repeats the stale-review check after the editor was reopened.
